@@ -1,7 +1,7 @@
 ---
 head:
   meta:
-    - name: "og:title"
+    - name: "og:titleb"
       property: "og:title"
       content: "Working with WebSockets"
     - name: "twitter:title"
